@@ -1,5 +1,8 @@
 /*Trevor Neal Anime List Queries*/
 
+USE Anime_list
+GO
+
 /*-----------------------------------------------------------
 Aggregate Functions*/
 
